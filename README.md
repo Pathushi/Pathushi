@@ -32,7 +32,6 @@ I am passionate about building **smart, scalable systems** using modern technolo
 
 ### 🌱 Urban Food E-Commerce Platform
 📌 **Tech:** React, Spring Boot, Oracle  
-🔗 [Source Code](https://github.com/Pathushi/Urban-Food)  
 📝 Features: Secure login, real-time order tracking, user-friendly interface.  
 
 ---
