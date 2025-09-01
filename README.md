@@ -3,7 +3,7 @@
 # 🌐 Pathushi Munasinghe | Portfolio
 
 Welcome to my personal portfolio website!  
-This site highlights my **background, key projects, and how to connect with me**.  
+This site highlights my **background, key projects, and how to connect with me**.
 
 ---
 
