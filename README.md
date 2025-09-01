@@ -68,14 +68,6 @@ I am passionate about building **smart, scalable systems** using modern technolo
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Urban Food](https://github-readme-stats.vercel.app/api/pin/?username=Pathushi&repo=Urban-Food-E-Commerce-Platform&theme=radical)](https://github.com/Pathushi/Urban-Food-E-Commerce-Platform)
-[![Conveyor Robot](https://github-readme-stats.vercel.app/api/pin/?username=Pathushi&repo=Conveyor-Robot-Arm&theme=radical)](https://github.com/Pathushi/Conveyor-Robot-Arm)
-[![AC Management](https://github-readme-stats.vercel.app/api/pin/?username=Pathushi&repo=AC-Contract-Management&theme=radical)](https://github.com/Pathushi/AC-Contract-Management)
-[![Fashion AI](https://github-readme-stats.vercel.app/api/pin/?username=Pathushi&repo=Fashion-Outfit-Matching-AI&theme=radical)](https://github.com/Pathushi/Fashion-Outfit-Matching-AI)
-
----
 
 ## 📫 Contact Me
 ✉️ Email: [pathushi.m@gmail.com](mailto:pathushi.m@gmail.com)  
