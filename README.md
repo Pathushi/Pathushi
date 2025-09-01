@@ -34,28 +34,24 @@ I am passionate about building **smart, scalable systems** using modern technolo
 ### 🌱 Urban Food E-Commerce Platform
 📌 **Tech:** React, Spring Boot, Oracle  
 📝 Features: Secure login, real-time order tracking, user-friendly interface.  
-[🔗 GitHub Repo](https://github.com/Pathushi/Urban-Food-E-Commerce-Platform)
 
 ---
 
 ### 🤖 Conveyor Belt with Robot Arm
 📌 **Tech:** Arduino, C++  
 📝 Automated sorting system integrating conveyor belt and robotic arm for industrial object classification.  
-[🔗 GitHub Repo](https://github.com/Pathushi/Conveyor-Robot-Arm)
 
 ---
 
 ### 🧊 AC Contract Company Management System
 📌 **Tech:** C# Windows Forms  
 📝 Desktop application to manage clients, contracts, and service schedules for an AC servicing company.  
-[🔗 GitHub Repo](https://github.com/Pathushi/AC-Contract-Management)
 
 ---
 
 ### 🎨 Fashion Outfit Matching AI
 📌 **Tech:** Python, OpenCV, TensorFlow  
 📝 Machine learning model to check if two clothing images match in style or color.  
-[🔗 GitHub Repo](https://github.com/Pathushi/Fashion-Outfit-Matching-AI)
 
 ---
 
