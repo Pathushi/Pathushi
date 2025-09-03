@@ -8,7 +8,7 @@ This README highlights my **background, key projects, and ways to connect** with
 ---
 
 ## 🔗 Live Website
-[🌍 Visit My Portfolio](https://pathushi.github.io)
+[🌍 Visit My Portfolio](https://pathushi.me/)
 
 ---
 
