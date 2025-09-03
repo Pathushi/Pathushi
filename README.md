@@ -68,7 +68,7 @@ I am passionate about building **smart, scalable systems** using modern technolo
 ## 📫 Contact Me
 ✉️ Email: [pathushi.m@gmail.com](mailto:pathushi.m@gmail.com)  
 🐙 GitHub: [github.com/Pathushi](https://github.com/Pathushi)  
-🔗 Portfolio: [https://pathushi.github.io](https://pathushi.github.io)  
+🔗 Portfolio: [https://pathushi.me/](https://pathushi.me/)  
 💼 LinkedIn: [linkedin.com/in/pathushi](https://linkedin.com/in/pathushi)
 
 ---
