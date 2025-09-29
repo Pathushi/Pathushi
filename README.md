@@ -1,6 +1,5 @@
-# Pathushi Munasinghe
 
-# 🌐 Pathushi Munasinghe | Portfolio
+# M.M.P.N.Munasinghe | Portfolio
 
 Welcome to my personal portfolio!  
 This README highlights my **background, key projects, and ways to connect** with me.  
