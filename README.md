@@ -53,12 +53,7 @@ I’m passionate about building **efficient, scalable, and real-world software s
 **Tech:** Vue.js  
 ✔ Task management with CRUD functionality  
 ✔ Clean, modern interface  
-✔ Updated recently  
-
-### 🏦 **Baithulmal**  
-**Tech:** JavaScript  
-✔ Charity donation tracking system  
-✔ Handles user donations and fund management  
+✔ Updated recently   
 
 ### 📄 **OCR (Optical Character Recognition)**  
 **Tech:** Python  
@@ -74,11 +69,6 @@ I’m passionate about building **efficient, scalable, and real-world software s
 **Tech:** HTML  
 ✔ My personal portfolio website  
 ✔ Showcases projects, skills, and contact info  
-
-### 🗂️ **Backend_User** *(Private)*  
-**Tech:** Python  
-✔ Backend management system  
-✔ Private repository for learning & experimentation  
 
 ### 📝 **MiniNotesApp**  
 **Tech:** TypeScript  
