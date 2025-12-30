@@ -98,14 +98,6 @@ I’m passionate about building **efficient, scalable, and real-world software s
 
 ---
 
-## 📊 GitHub Stats
-
-![Pathushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathushi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathushi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pathushi&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - 📧 **Email:** [pathushi.m@gmail.com](mailto:pathushi.m@gmail.com)  
@@ -116,4 +108,4 @@ I’m passionate about building **efficient, scalable, and real-world software s
 ---
 
 ⭐ **If you like my work, feel free to star my repositories!**  
-🤝 Open to internships, collaborations, and professional opportunities.
+🤝 Open to collaborations, and professional opportunities.
