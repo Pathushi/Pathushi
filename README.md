@@ -1,17 +1,19 @@
-# 👋 Hi, I'm **Pathushi Munasinghe**  
-### 💻 Software Engineering Undergraduate | Full-Stack Developer
+# 👋 Hi, I'm **M.M.P.N. Munasinghe**  
+### 💻 Software Engineering Intern | Computing Undergraduate
 
 ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 🚀 Welcome to my GitHub portfolio!  
-I’m a **second-year Software Engineering undergraduate** at **National Institute of Business Management (NIBM), Sri Lanka**, passionate about building **efficient, scalable, and real-world software solutions**.
+I’m a **Software Engineering Intern at [PragICTS](https://www.pragicts.com/)** and a **third-year BSc (Hons) in Computing undergraduate** at **NIBM**, affiliated with **Coventry University, UK**.  
+I’m passionate about building **efficient, scalable, and real-world software solutions**.
 
 🌐 **Live Portfolio:** 👉 [https://pathushi.me](https://pathushi.me)
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering Undergraduate (Year 2)  
+- 🎓 BSc (Hons) in Computing Undergraduate (Year 3) – NIBM / Coventry University  
+- 💼 Software Engineering Intern at PragICTS  
 - 💡 Interested in **Full-Stack Development, AI, and System Design**  
 - 🛠️ Love turning ideas into functional, user-friendly applications  
 - 🌱 Constantly learning new technologies and improving my skills  
@@ -124,4 +126,4 @@ I’m a **second-year Software Engineering undergraduate** at **National Institu
 ---
 
 ⭐ **If you like my work, feel free to star my repositories!**  
-🤝 Open to internships, collaborations, and learning opportunities.
+🤝 Open to internships, collaborations, and professional opportunities.
