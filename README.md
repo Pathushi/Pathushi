@@ -1,8 +1,7 @@
-
-# M.M.P.N.Munasinghe | Portfolio
+# M.M.P.N. Munasinghe | Portfolio
 
 Welcome to my personal portfolio!  
-This README highlights my **background, key projects, and ways to connect** with me.  
+This README highlights my **background, key projects, and ways to connect** with me.
 
 ---
 
@@ -13,7 +12,7 @@ This README highlights my **background, key projects, and ways to connect** with
 
 ## 👩‍💻 About Me
 I am a **second-year Software Engineering undergraduate** at the National Institute of Business Management, Sri Lanka.  
-I am passionate about building **smart, scalable systems** using modern technologies.  
+I am passionate about building **smart, scalable systems** using modern technologies.
 
 **Technologies I work with:**
 
@@ -32,25 +31,19 @@ I am passionate about building **smart, scalable systems** using modern technolo
 
 ### 🌱 Urban Food E-Commerce Platform
 📌 **Tech:** React, Spring Boot, Oracle  
-📝 Features: Secure login, real-time order tracking, user-friendly interface.  
-
----
+📝 Features: Secure login, real-time order tracking, user-friendly interface.
 
 ### 🤖 Conveyor Belt with Robot Arm
 📌 **Tech:** Arduino, C++  
-📝 Automated sorting system integrating conveyor belt and robotic arm for industrial object classification.  
-
----
+📝 Automated sorting system integrating a conveyor belt and robotic arm for industrial object classification.
 
 ### 🧊 AC Contract Company Management System
 📌 **Tech:** C# Windows Forms  
-📝 Desktop application to manage clients, contracts, and service schedules for an AC servicing company.  
-
----
+📝 Desktop application to manage clients, contracts, and service schedules for an AC servicing company.
 
 ### 🎨 Fashion Outfit Matching AI
 📌 **Tech:** Python, OpenCV, TensorFlow  
-📝 Machine learning model to check if two clothing images match in style or color.  
+📝 Machine learning model to check if two clothing images match in style or color.
 
 ---
 
@@ -62,7 +55,6 @@ I am passionate about building **smart, scalable systems** using modern technolo
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pathushi&theme=react-dark&area=true)
 
 ---
-
 
 ## 📫 Contact Me
 ✉️ Email: [pathushi.m@gmail.com](mailto:pathushi.m@gmail.com)  
